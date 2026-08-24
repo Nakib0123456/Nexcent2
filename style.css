@@ -295,6 +295,7 @@ color: var(--neutral-d-grey);
     align-items: center;
     width: 255px;
 height: 60px;
+	  gap: 20px;
   }
   .ca img{
     width: 50px;
